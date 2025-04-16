@@ -1,0 +1,15 @@
+This software is licensed under the Mozilla Public License 2.0.
+You may obtain a copy of the License at https://www.mozilla.org/MPL/2.0/
+
+Additional Notice:
+
+If you distribute any software that uses or includes files from this project, 
+you are required to include all original, unmodified source code files 
+from this project in your distribution, regardless of whether you modified them.
+
+This is an extension of Section 3.2 of the MPL 2.0,
+and must be preserved in redistributions.
+
+Author: OrangeXJam
+Project: Network Management System
+Date: 2025-04-15
