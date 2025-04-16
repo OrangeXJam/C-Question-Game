@@ -11,5 +11,5 @@ This is an extension of Section 3.2 of the MPL 2.0,
 and must be preserved in redistributions.
 
 Author: OrangeXJam
-Project: C Question Game
+Project: The Scholar & The Obsidian Raven - The Knowledge Comeback
 Date: 2025-04-16
